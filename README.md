@@ -1,4 +1,4 @@
-# DukaanAI 🛒🤖
+git checkout main# DukaanAI 🛒🤖
 
 DukaanAI is an AI-powered smart assistant for Indian grocery stores (Kirana shops). It takes the hassle out of manual order entry by allowing shopkeepers to input customer orders in natural language (Hinglish). The AI understands the order, matches items with the store's inventory, handles ambiguities, updates stock, and generates invoices instantly.
 
@@ -80,3 +80,6 @@ The frontend will be running at `http://localhost:5173`.
 
 ## 📝 License
 This project is licensed under the MIT License.
+## Live Demo
+
+This project is deployed and live at [https://dukaanai-arise-ai-036c8.containers.snapdeploy.app/](https://dukaanai-arise-ai-036c8.containers.snapdeploy.app/).
